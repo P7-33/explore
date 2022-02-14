@@ -1,5 +1,5 @@
----
-items:
+ ---
+ items:
  - github/lightcrawler
  - Khan/tota11y
  - addyosmani/a11y
